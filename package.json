@@ -33,7 +33,7 @@
     "lodash": "^4.17.15",
     "is-plain-obj": "^1.1.0",
     "minimatch": "^3.0.4",
-    "normalize-url": "^1.9.1",
+    "normalize-url": "^4.5.1",
     "jsonfile": "^4.0.0",
     "object-assign": "^4.1.1",
     "once": "^1.4.0",
